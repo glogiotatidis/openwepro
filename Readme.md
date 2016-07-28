@@ -1,7 +1,7 @@
 OpenWepro
 =========
 
-## Open source in-page web proxy software
+## Open source in-page web proxy software 
 
 Installation
 ------------
